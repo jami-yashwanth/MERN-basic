@@ -1,0 +1,9 @@
+.block{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin-left : 30px
+}
